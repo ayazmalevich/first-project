@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+    padding: 0;
+}
+
+.text {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.footer {
+    text-decoration: underline;
+}
